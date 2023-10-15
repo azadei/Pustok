@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eaE6A9A/QBqDl2DZM1fiXoKyQIJfnRwGf1I+tq37wSLDYfGYleOwpV09Q+zJ3e4o5QroYKTuk8pcQVk/X2yfmw==",
+  "dgSpecHash": "BC4zAi2hvHeTT6NYd/jd1aMYfi8nN/rNJXOwTeNLdvfboKfwrHw5lqKhTwwBT57+afpR8qPq0UrL4JGw7EdB4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Backend\\Pustok\\Pustok\\Pustok.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Pustok\\Pustok\\Pustok.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.23\\microsoft.aspnetcore.mvc.razor.extensions.6.0.23.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.23\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.23.nupkg.sha512",

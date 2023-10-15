@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pustok
 build_property.RootNamespace = Pustok
-build_property.ProjectDir = C:\Users\user\Documents\Backend\Pustok\Pustok\
+build_property.ProjectDir = C:\Users\user\Desktop\Pustok\Pustok\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\user\Documents\Backend\Pustok\Pustok
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Pustok\Pustok
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Admin/ProductAdd.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Admin/ProductAdd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Admin/ProductEdit.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Admin/ProductEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Admin/Products.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Admin/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Admin/Slidebar.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Admin/Slidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2xpZGViYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Admin/SlidebarAdd.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Admin/SlidebarAdd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2xpZGViYXJBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Admin/SlidebarEdit.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Admin/SlidebarEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2xpZGViYXJFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Home/About.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Home/Index.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/Home/Shop.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/Home/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Backend/Pustok/Pustok/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/Pustok/Pustok/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
