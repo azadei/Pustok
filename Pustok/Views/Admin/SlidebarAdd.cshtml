@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+     
+    <div class="container">
+        <h2>Add New Slidebar</h2>
+        <form action="~/admin/submitslidebar" method="POST" >
+            <div class="form-group">
+                <label for="slidebartName">Slidebar Title</label>
+                <input name="title" type="text" class="form-control" id="slidebarName" placeholder="Enter slidebar title">
+            </div>
+            <div class="form-group">
+                <label for="productPrice">Slidebar Description</label>
+                <input name="description" type="text" class="form-control" id="productPrice" placeholder="Enter description">
+            </div>
+            <div class="form-group">
+                <label for="productRating">Slidebar Order</label>
+                <input name="order" type="text" class="form-control" id="productRating" placeholder="Enter order">
+            </div>
+            <div class="form-group">
+                <label for="slidebarOffer">Slidebar Offer</label>
+                <input name="offer" type="text" class="form-control" id="slidebarOffer" placeholder="Enter offer">
+            </div>
+            <button type="submit" class="btn btn-primary">Add Slidebar</button>
+        </form>
+    </div>
+
+</body>
+</html>

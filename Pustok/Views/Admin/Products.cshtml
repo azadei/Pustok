@@ -1,0 +1,51 @@
+﻿@model List<Product>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Product Table</h2>
+        <h2><a class="btn btn-success" href="~/admin/ProductAdd">New Product</a></h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Color</th>
+                    <th>Size</th>
+                    <th>Price</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int rowCount = 1;
+                }
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@rowCount</td>
+                        <td>@product.Name</td>
+                        <td>@product.Description</td>
+                        <td>@product.Color</td>
+                        <td>@product.Size</td>
+                        <td>$@product.Price</td>
+                        <td>
+                            <a href="~/admin/productedit?id=@product.Id" class="btn btn-warning">Edit</a>
+                            <a href="~/admin/DeleteProduct?id=@product.Id" class="btn btn-danger">Remove</a>
+                        </td>
+                    </tr>
+                    rowCount++;
+                }
+
+                <!-- Add more rows as needed -->
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>
